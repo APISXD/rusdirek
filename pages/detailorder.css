@@ -1,0 +1,157 @@
+.android-large-6 .download-icon-moreicon-13201833276415530145121 {
+  background: url('../assets/images/downloadIconMoreicon13201833276415530145121.png') 50% / cover no-repeat;
+  transform: rotate(90.176deg);
+  width: 40.1px;
+  height: 40.1px;
+}
+.android-large-6 .kisspng-computer-icons-xmark-clip-art-old-letters-5-b-4860-c-9-c-00-b-111 {
+  background: url('../assets/images/kisspngComputerIconsXmarkClipArtOldLetters5B4860C9C00B111.png') 50% / cover no-repeat;
+  margin: 6px 0 6.1px 0;
+  width: 42px;
+  height: 28px;
+}
+.android-large-6 .container-3 {
+  margin: 0 26px 44.9px 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 44px);
+  box-sizing: border-box;
+}
+.android-large-6 .detail-order {
+  margin: 0 0 33px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 27px;
+  letter-spacing: 2.7px;
+  color: #000000;
+}
+.android-large-6 .rectangle-17 {
+  background: #D9D9D9;
+  margin: 333px 87px 369px 0;
+  width: 66px;
+  height: 23px;
+}
+.android-large-6 .menubuttonofthreelines-797812 {
+  background: url('../assets/images/menubuttonofthreelines797811.png') 50% / cover no-repeat;
+  margin: 0 0 44px 1px;
+  width: 29px;
+  height: 29px;
+}
+.android-large-6 .schedule {
+  margin: 0 0 19px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 27px;
+  letter-spacing: 2.7px;
+  color: #000000;
+}
+.date-choosen {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin: 0 0 25px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: #303343;
+}
+.android-large-6 .am {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 1.6px;
+  color: #303343;
+}
+.android-large-6 .container {
+  background: #929292;
+  position: relative;
+  margin: 0 0 33px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 12px 16px 9px 16px;
+  box-sizing: border-box;
+}
+.android-large-6 .logo-rusdi-barber-1 {
+  background: url('../assets/images/logoRusdiBarber1.png') 50% / cover no-repeat;
+  margin-bottom: 22px;
+  width: 260px;
+  height: 260px;
+}
+.android-large-6 .close {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #000000;
+}
+.android-large-6 .container-1 {
+  background: #F0A500;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 1px 10px 0;
+  width: 116px;
+  box-sizing: border-box;
+}
+.android-large-6 .container-2 {
+  border-radius: 65px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0 144px 0;
+  width: 360px;
+  box-sizing: border-box;
+}
+.android-large-6 .container-4 {
+  display: flex;
+  flex-direction: row;
+  width: 513px;
+  box-sizing: border-box;
+}
+.android-large-6 {
+  background: #F4F4F4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 28px;
+  box-sizing: border-box;
+}
+.close {
+  background-color: #F0A500; /* Warna latar merah */
+  color: white; /* Warna teks putih */
+  padding: 10px 20px; /* Padding untuk tata letak tombol */
+  border: none; /* Hilangkan border */
+  border-radius: 5px; /* Bentuk border-radius untuk sudut yang lebih halus */
+  cursor: pointer; /* Ganti kursor saat diarahkan ke tombol */
+}
+
+.close:hover {
+  background-color: rgba(232, 160, 4, 0.9); /* Warna latar saat dihover */
+}
+  body, html {
+    width: 414px;
+    height: 896px;
+    overflow: auto; /* or scroll, depending on your needs */
+    margin: 0;
+    padding: 0;
+  }
+
+  @media (min-width: 414px) {
+    html, body {
+      width: 414px;
+      margin: auto; /* Center the fixed width layout on larger screens */
+    }
+  }

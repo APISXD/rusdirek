@@ -1,0 +1,407 @@
+html, body {
+  font-family: 'Inter';
+}
+.android-large-3 .download-icon-moreicon-13201833276415530145123 {
+  background: url('../assets/images/downloadIconMoreicon13201833276415530145121.png') 50% / cover no-repeat;
+  transform: rotate(90.176deg);
+  width: 40.1px;
+  height: 40.1px;
+}
+.android-large-3 .mask-group {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  position: relative;
+  margin-right: 15px;
+  width: 82px;
+  box-sizing: border-box;
+}
+.android-large-3 .untitled-11 {
+  background: url('../assets/images/untitled11.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -2px;
+  bottom: 0px;
+  width: 82px;
+  height: 82px;
+}
+.android-large-3 .mask-group-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  position: relative;
+  width: 82px;
+  box-sizing: border-box;
+}
+.android-large-3 .container {
+
+}
+.android-large-3 .mask-group-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin-right: 17px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 82px;
+  height: 82px;
+  box-sizing: border-box;
+}
+.android-large-3 .container-1 {
+  background: url('../assets/images/image3.png') 50% / cover no-repeat;
+  top: -2px;
+  right: 4px;
+  width: 74px;
+  height: 85px;
+}
+.android-large-3 {
+  background: #F4F4F4;
+  display: flex;
+  flex-direction: column;
+  padding-top: 27px;
+  box-sizing: border-box;
+}
+.android-large-3 .menubuttonofthreelines-797811 {
+  background: url('../assets/images/menubuttonofthreelines797811.png') 50% / cover no-repeat;
+  margin: 7px 0 4.1px 0;
+  width: 29px;
+  height: 29px;
+}
+.android-large-3 .menubuttonofthreelines-797812 {
+  background: url('../assets/images/menubuttonofthreelines797811.png') 50% / cover no-repeat;
+margin-top: 20px;
+margin-bottom: 30px;
+  width: 29px;
+  height: 29px;
+}
+.android-large-3 .style {
+  margin-bottom: 30px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 4.8px;
+  color: #000000;
+}
+.android-large-3 .ellipse-1 {
+  border-radius: 4.9px;
+  background: rgba(0, 0, 0, 0.5);
+  width: 9.8px;
+  height: 9.8px;
+}
+.android-large-3 .ellipse-2 {
+  border-radius: 4.9px;
+  width: 9.8px;
+  height: 9.8px;
+}
+.android-large-3 .ellipse-3 {
+  border-radius: 4.9px;
+  width: 9.8px;
+  height: 9.8px;
+}
+.android-large-3 .group-1 {
+  margin: 0 0 38.2px 1px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 6.8px;
+  width: 43px;
+  box-sizing: border-box;
+}
+.android-large-3 .continue {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #000000;
+}
+.android-large-3 .services {
+  margin-bottom: 47px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  letter-spacing: 3px;
+  color: #000000;
+}
+.android-large-3 .selected-styless {
+  width: 100%;
+  height: auto;
+}
+
+.selected-styless img {
+  width: 80%;
+  max-width: 100%;
+}
+.selected-manss img {
+  width: 60%;
+  max-width: 100%;
+}
+.selected-manss {
+  font-family: 'Inter';
+  display: flex;
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+
+.selected-styless {
+  font-family: 'Inter';
+  display: flex;
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+.android-large-3 .barbermanss {
+  width: 102px;
+  height: 102px;
+}
+  body, html {
+    width: 414px;
+    height: 896px;
+    overflow: auto; /* or scroll, depending on your needs */
+    margin: 0;
+    padding: 0;
+  }
+
+  @media (min-width: 414px) {
+    html, body {
+      width: 414px;
+      margin: auto; /* Center the fixed width layout on larger screens */
+    }
+  }
+.android-large-3 .hello {
+  opacity: 0.5;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 4.8px;
+  color: #000000;
+}
+.android-large-3 .customers {
+  opacity: 0.8;
+  margin-left: 0.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 4.8px;
+  color: #000000;
+}
+.android-large-3 .container-3 {
+  background: url('../assets/images/image.png') 50% / cover no-repeat;
+  margin: 4px 20.3px 4px 0;
+  width: 50px;
+  height: 50px;
+}
+.android-large-3 .container {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.android-large-3 .container-1 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.android-large-3 .group-8 {
+  background: #F0A500;
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 19px 1px 16px 0;
+  width: 173px;
+  box-sizing: border-box;
+}
+.android-large-3 .group-9 {
+  border-radius: 65px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 181px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.android-large-3 .group-3 {
+  margin: 0 27px 10.9px 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 39px);
+  box-sizing: border-box;
+}
+.android-large-3 .group-4 {
+  margin: 70px auto 70px auto; /* Ubah margin */
+  display: flex;
+  flex-direction: row;
+  justify-content: center; /* Tambah justify-content */
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+div.group-4 {
+  transform: scale(1.5);
+}
+.android-large-3 .group-5 {
+  box-shadow: 0px 15px 15px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background: #F0A500;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 21px 0 22px 1px;
+  height: 145px;
+  flex-grow: 1;
+  flex-basis: 145px;
+  box-sizing: border-box;
+}
+.android-large-3 .group-6 {
+  box-shadow: 0px 15px 15px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 17px;
+  background: #CF7500;
+  position: relative;
+  margin-right: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 19px;
+  height: 145px;
+  flex-grow: 1;
+  flex-basis: 145px;
+  box-sizing: border-box;
+}
+.android-large-3 .group-7 {
+  margin: 0 27px 66px 27px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 54px);
+  box-sizing: border-box;
+}
+
+.slider-container {
+  overflow: hidden;
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.slider {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.slide {
+  flex: 0 0 100%;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto; /* Untuk membuat gambar tetap di tengah */
+}
+  .styles-slider {
+    opacity: 1;
+  }
+
+  .barbers-slider {
+    opacity: 0;
+    pointer-events: none; /* Untuk mencegah interaksi dengan slider yang tidak aktif */
+  }
+.dots-container {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #bbb;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.dot.active {
+  background-color: #333;
+}
+.prev-btn,
+.next-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  font-size: 20px;
+  z-index: 1;
+}
+
+.prev-btn {
+  left: 20px;
+}
+
+.next-btn {
+  right: 20px;
+}
+.prev-btn-barberman,
+.next-btn-barberman {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  font-size: 20px;
+  z-index: 1;
+}
+
+.prev-btn-barberman {
+  left: 20px;
+}
+
+.next-btn-barberman {
+  right: 20px;
+}
+.next-button,
+.previous-button {
+  background-color: transparent;
+  color: rgba(0, 0, 0, 0.5);
+  border: none;
+  cursor: pointer;
+  padding: 0px;
+  font-size: 20px;
+  z-index: 1;
+}
+.continue-container {
+  text-align: center;
+  margin-top: 30px; /* Atur jarak antara dot dan tombol Continue */
+    width: 100%;
+}
+
+.continue-button {
+  width: 200px;
+  padding: 10px 20px; /* Sesuaikan ukuran tombol sesuai kebutuhan */
+  font-size: 16px; /* Sesuaikan ukuran font sesuai kebutuhan */
+  background-color: #F0A500; /* Atur warna latar belakang tombol */
+  color: #000; /* Atur warna teks tombol */
+  border: none; /* Hilangkan border tombol jika tidak diperlukan */
+  border-radius: 5px; /* Atur radius sudut tombol */
+  cursor: pointer; /* Ubah kursor menjadi tangan saat mengarahkan ke tombol */
+}
+
+
+

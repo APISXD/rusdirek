@@ -1,0 +1,97 @@
+        body, input, button, label, a {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+.android-large-1 {
+    background: #F4F4F4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 42px 9px 100px 8px;
+    box-sizing: border-box;
+}
+
+.logo-rusdi-barber-1 {
+    background: url('../assets/images/logoRusdiBarber1.png') 50% / cover no-repeat;
+    margin-bottom: 3px;
+    width: 343px;
+    height: 343px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+    width: 268px;
+    box-sizing: border-box;
+}
+
+.email-label,
+.password-label {
+    display: block;
+    margin-bottom: 4px;
+
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: #000000;
+}
+
+.email-input,
+.password-input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: #000000;
+}
+
+.forget-password {
+    display: block;
+
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: #F0A500;
+    text-decoration: none;
+}
+
+.login-button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    background: #F0A500;
+
+
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: #000000;
+    cursor: pointer;
+}
+
+.dont-have-an-account-sign-up {
+
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: #000000;
+}
+
+.signup-link {
+    color: #F0A500;
+    text-decoration: none;
+}
+  body, html {
+    width: 414px;
+    height: 896px;
+    overflow: auto; /* or scroll, depending on your needs */
+    margin: 0;
+    padding: 0;
+  }
+
+  @media (min-width: 414px) {
+    html, body {
+      width: 414px;
+      margin: auto; /* Center the fixed width layout on larger screens */
+    }
+  }

@@ -1,0 +1,693 @@
+html, body {
+  font-family: 'Inter';
+}
+.android-large-4 .download-icon-moreicon-13201833276415530145123 {
+  background: url('../assets/images/downloadIconMoreicon13201833276415530145121.png') 50% / cover no-repeat;
+  transform: rotate(90.176deg);
+  width: 40.1px;
+  height: 40.1px;
+}
+.android-large-4 .menubuttonofthreelines-797811 {
+  background: url('../assets/images/menubuttonofthreelines797811.png') 50% / cover no-repeat;
+  margin: 6px 0 5.1px 0;
+  width: 29px;
+  height: 29px;
+}
+.android-large-4 .container-4 {
+  margin: 0 27px 45.9px 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 40px);
+  box-sizing: border-box;
+}
+.android-large-4 .your-order {
+  margin: 0 10px 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 27px;
+  letter-spacing: 2.7px;
+  color: #000000;
+}
+.android-large-4 .icon-gunting-png-71 {
+  background: url('../assets/images/iconGuntingPng71.png') 50% / cover no-repeat;
+  width: 64px;
+  height: 64px;
+}
+.android-large-4 .container-7 {
+  box-shadow: 0px 15px 15px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 17px;
+  background: #F0A500;
+  position: relative;
+  margin: 9px 19px 11px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 11px;
+  width: 86px;
+  height: 86px;
+  box-sizing: border-box;
+}
+.android-large-4 .untitled-11 {
+  background: url('../assets/images/untitled11.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -2.6px;
+  bottom: 0px;
+  width: 108px;
+  height: 108px;
+}
+.android-large-4 .mask-group {
+  position: absolute;
+  right: -1px;
+  bottom: -2px;
+  width: 108px;
+  height: 108px;
+}
+
+.android-large-4 .mask-group-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 17px;
+  position: relative;
+  width: 106px;
+  box-sizing: border-box;
+}
+.android-large-4 .container-3 {
+  margin: 0 0 26px 1px;
+  display: flex;
+  flex-direction: row;
+  width: 211px;
+  box-sizing: border-box;
+}
+.android-large-4 .choose-time {
+  opacity: 0.8;
+  margin: 0 118px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: #000000;
+}
+.android-large-4 .range-05-min-transformed-gut-871 {
+  opacity: 0.5;
+  box-shadow: 5px 4px 9px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 17px;
+  background: url('../assets/images/range05MinTransformedGut871.png') 50% / cover no-repeat;
+  margin-bottom: 18px;
+  width: 266px;
+  height: 211px;
+}
+.android-large-4 .am {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #303343;
+}
+.android-large-4 .container-6 {
+  box-shadow: 2px 4px 9px 0px rgba(0, 0, 0, 0.25);
+  background: #929292;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4px 8.9px 7px 8.9px;
+  box-sizing: border-box;
+}
+.android-large-4 .am-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #303343;
+}
+.android-large-4 .container-8 {
+  box-shadow: 2px 4px 9px 0px rgba(0, 0, 0, 0.25);
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4px 8.9px 7px 8.9px;
+  box-sizing: border-box;
+}
+.android-large-4 .am-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #303343;
+}
+.android-large-4 .container-10 {
+  box-shadow: 2px 4px 9px 0px rgba(0, 0, 0, 0.25);
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4px 9.7px 7px 9.7px;
+  box-sizing: border-box;
+}
+.android-large-4 .container-11 {
+  margin: 0 1px 15px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.android-large-4 .pm {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #303343;
+}
+.android-large-4 .container-2 {
+  box-shadow: 2px 4px 9px 0px rgba(0, 0, 0, 0.25);
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4px 11px 7px 9px;
+  box-sizing: border-box;
+}
+.android-large-4 .am-4 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #303343;
+}
+.android-large-4 .container-1 {
+  box-shadow: 2px 4px 9px 0px rgba(0, 0, 0, 0.25);
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4px 9px 7px 9px;
+  box-sizing: border-box;
+}
+.android-large-4 .am-3 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #303343;
+}
+.android-large-4 .container-9 {
+  box-shadow: 2px 4px 9px 0px rgba(0, 0, 0, 0.25);
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4px 7.8px 7px 9.8px;
+  box-sizing: border-box;
+}
+.android-large-4 .container-5 {
+  margin: 0 1px 19px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.android-large-4 .ellipse-1 {
+  border-radius: 4.9px;
+  background: rgba(0, 0, 0, 0.5);
+  width: 9.8px;
+  height: 9.8px;
+}
+.android-large-4 .ellipse-2 {
+  border-radius: 4.9px;
+  width: 9.8px;
+  height: 9.8px;
+}
+.android-large-4 .ellipse-3 {
+  border-radius: 4.9px;
+  width: 9.8px;
+  height: 9.8px;
+}
+.android-large-4 .group-1 {
+  margin: 0 0 29.2px 1px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 6.8px;
+  width: 43px;
+  box-sizing: border-box;
+}
+.android-large-4 .pay-now {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #000000;
+}
+.android-large-4 .container-12 {
+  background: #F0A500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 3px 10px 0;
+  width: 116px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.k {
+  margin-bottom: 20px;
+  opacity: 0.8;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 4.8px;
+  color: #303343;
+}
+.container {
+  border-radius: 17px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  padding: 43px 0 75px 0px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.android-large-4 {
+  background: #F4F4F4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 28px;
+  box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;200;300;400;500;600;700&display=swap');
+
+:root {
+    --calendar-bg-color: #262829;
+    --calendar-font-color: #FFF;
+    --weekdays-border-bottom-color: #404040;
+    --calendar-date-hover-color: #505050;
+    --calendar-current-date-color: #1b1f21;
+    --calendar-today-innerborder-color: transparent;
+    --calendar-nextprev-bg-color: transparent;
+    --next-prev-arrow-color : #FFF;
+    --calendar-border-radius: 16px;
+    --calendar-prevnext-date-color: #484848
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.calendar {
+    font-family: 'IBM Plex Sans', sans-serif;
+    position: relative;
+    max-width: 400px; /*change as per your design need */
+    min-width: 320px;
+    background: var(--calendar-bg-color);
+    color: var(--calendar-font-color);
+    margin: 20px auto;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-weight: normal;
+    border-radius: var(--calendar-border-radius);
+}
+
+.calendar-inner {
+    padding: 10px 10px;
+}
+
+.calendar .calendar-inner .calendar-body {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    text-align: center;
+}
+
+.calendar .calendar-inner .calendar-body div {
+    padding: 4px;
+    min-height: 30px;
+    line-height: 30px;
+    border: 1px solid transparent;
+    margin: 10px 2px 0px;
+}
+
+.calendar .calendar-inner .calendar-body div:nth-child(-n+7) {
+    border: 1px solid transparent;
+    border-bottom: 1px solid var(--weekdays-border-bottom-color);
+}
+
+.calendar .calendar-inner .calendar-body div:nth-child(-n+7):hover {
+    border: 1px solid transparent;
+    border-bottom: 1px solid var(--weekdays-border-bottom-color);
+}
+
+.calendar .calendar-inner .calendar-body div>a {
+    color: var(--calendar-font-color);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+.calendar .calendar-inner .calendar-body div:hover {
+    border: 1px solid var(--calendar-date-hover-color);
+    border-radius: 4px;
+}
+
+.calendar .calendar-inner .calendar-body div.empty-dates:hover {
+    border: 1px solid transparent;
+}
+
+.calendar .calendar-inner .calendar-controls {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.calendar .calendar-inner .calendar-today-date {
+    display: grid;
+    text-align: center;
+    cursor: pointer;
+    margin: 3px 0px;
+    background: var(--calendar-current-date-color);
+    padding: 8px 0px;
+    border-radius: 10px;
+    width: 80%;
+    margin: auto;
+}
+
+.calendar .calendar-inner .calendar-controls .calendar-year-month {
+    display: flex;
+    min-width: 100px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.calendar .calendar-inner .calendar-controls .calendar-next {
+    text-align: right;
+}
+
+.calendar .calendar-inner .calendar-controls .calendar-year-month .calendar-year-label,
+.calendar .calendar-inner .calendar-controls .calendar-year-month .calendar-month-label {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.calendar .calendar-inner .calendar-body .calendar-today {
+    background: var(--calendar-today-color);
+    border-radius: 4px;
+}
+
+.calendar .calendar-inner .calendar-body .calendar-today:hover {
+    border: 1px solid transparent;
+}
+
+.calendar .calendar-inner .calendar-body .calendar-today a {
+    outline: 2px solid var(--calendar-today-innerborder-color);
+}
+
+.calendar .calendar-inner .calendar-controls .calendar-next a,
+.calendar .calendar-inner .calendar-controls .calendar-prev a {
+    color: var(--calendar-font-color);
+    font-family: arial, consolas, sans-serif;
+    font-size: 26px;
+    text-decoration: none;
+    padding: 4px 12px;
+    display: inline-block;
+    background: var(--calendar-nextprev-bg-color);
+    margin: 10px 0 10px 0;
+}
+
+.calendar .calendar-inner .calendar-controls .calendar-next a svg,
+.calendar .calendar-inner .calendar-controls .calendar-prev a svg {
+    height: 20px;
+    width: 20px;
+}
+
+.calendar .calendar-inner .calendar-controls .calendar-next a svg path,
+.calendar .calendar-inner .calendar-controls .calendar-prev a svg path{
+    fill: var(--next-prev-arrow-color);
+}
+
+.calendar .calendar-inner .calendar-body .prev-dates,
+.calendar .calendar-inner .calendar-body .next-dates {
+    color: var(--calendar-prevnext-date-color);
+}
+
+.calendar .calendar-inner .calendar-body .prev-dates:hover,
+.calendar .calendar-inner .calendar-body .next-dates:hover {
+  border: 1px solid transparent;
+  pointer-events: none;
+}
+
+.time-button {
+  margin-left: 50px; /* Menambahkan jarak kiri pada tombol-tombol waktu kecuali yang pertama */
+  padding: 10px 20px; /* Menambahkan ruang di dalam tombol */
+  color: #fff; /* Warna teks */
+  background-color: #333; /* Warna latar belakang */
+  border: none; /* Menghapus border */
+  border-radius: 5px; /* Membuat sudut tombol melengkung */
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Efek bayangan */
+  transition: background-color 0.3s, box-shadow 0.3s; /* Transisi untuk efek hover */
+}
+
+.time-button:hover {
+  background-color: #555; /* Warna latar belakang saat tombol dihover */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4); /* Efek bayangan saat tombol dihover */
+}
+
+.time-button.selected {
+  background-color:  #03a9f4;
+  color: white; /* Putihkan teks agar terlihat jelas */
+}
+
+.calendar-selected {
+  background-color:  #03a9f4;
+  color: white; /* Mengatur warna teks menjadi putih agar terlihat jelas */
+  border-radius: 10px;
+}
+
+
+.time-group {
+  display: flex;
+  flex-direction: row; /* Mengatur agar tombol-tombol waktu diatur dalam satu baris */
+  align-items: center; /* Menyamakan tombol-tombol waktu secara vertikal */
+  margin-bottom: 10px; /* Memberikan sedikit jarak di antara baris tombol-tombol waktu */
+}
+
+.time-button:first-child {
+  margin-left: 0; /* Menghapus margin kiri pada tombol waktu pertama */
+}
+
+.time-button {
+  margin-left: 50px; /* Menambahkan jarak kiri pada tombol-tombol waktu kecuali yang pertama */
+}
+
+.group-5 {
+  box-shadow: 0px 15px 15px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background: #F0A500;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 21px 0 22px 1px;
+  height: 145px;
+  flex-grow: 1;
+  flex-basis: 145px;
+  box-sizing: border-box;
+}
+.group-6 {
+  box-shadow: 0px 15px 15px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 17px;
+  background: #CF7500;
+  position: relative;
+  margin-right: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 19px;
+  height: 145px;
+  flex-grow: 1;
+  flex-basis: 145px;
+  box-sizing: border-box;
+}
+.group-7 {
+  margin: 0 27px 66px 27px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 90px);
+  box-sizing: border-box;
+}
+.android-large-3 .choosen-styless {
+  width: 100%;
+  height: auto;
+}
+
+.choosen-styless img {
+  width: 80%;
+  max-width: 100%;
+}
+.choosen-manss img {
+  width: 60%;
+  max-width: 100%;
+}
+.choosen-manss {
+  font-family: 'Inter';
+  display: flex;
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+
+.choosen-styless {
+  font-family: 'Inter';
+  display: flex;
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+.pay-now {
+  background-color: #F0A500; /* Warna latar belakang */
+  color: #fff; /* Warna teks */
+  padding: 10px 20px; /* Padding di dalam tombol */
+  border: none; /* Hapus border */
+  border-radius: 5px; /* Sudut border */
+  cursor: pointer; /* Ganti kursor saat diarahkan ke tombol */
+  font-size: 16px; /* Ukuran teks */
+}
+.pay-now:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.pay-now:hover {
+  background-color: #F0A500 !important /* Warna latar belakang saat dihover */
+
+}
+body{
+    background: #f5f5f5;
+}
+.rounded{
+    border-radius: 1rem
+}
+.nav-pills .nav-link{
+    color: #555;
+}
+.nav-pills .nav-link.active{
+    color: white;
+    background-color: #F0A500;
+}
+input[type="radio"]{
+    margin-right: 5px;
+}
+  body, html {
+    width: 414px;
+    height: 896px;
+    overflow: auto; /* or scroll, depending on your needs */
+    margin: 0;
+    padding: 0;
+  }
+
+  @media (min-width: 414px) {
+    html, body {
+      width: 414px;
+      margin: auto; /* Center the fixed width layout on larger screens */
+    }
+  }
+.bold{
+    font-weight:bold;
+}
+.slide-up {
+  animation: slideUp 0.5s ease;
+}
+.card-footer {
+
+}
+.btn-primary {
+  background-color: #F0A500;
+
+  color: fff;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #F0A500;
+  border-color: #F0A500;
+}
+.btn-primary:active {
+  background-color: #fff;
+}
+&:focus,
+&.focus {
+  outline: none;
+box-shadow: none;
+}
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+.popup-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Overlay effect */
+  z-index: 9999; /* Overlay above other elements */
+  display: none; /* Initially hidden */
+  backdrop-filter: blur(10px);
+}
+
+.popup-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 414px; /* Max width */
+  max-height: 896px; /* Max height */
+  width: 100vw; /* Adjusts to the width of the viewport */
+  height: 100vh; /* Adjusts to the height of the viewport */
+  background-color: #fff;
+  border-radius: 5px;
+  z-index: 10000; /* Higher z-index than overlay */
+  box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Optional: Adds a subtle shadow */
+  overflow: auto; /* Enables scrolling if content exceeds height */
+}
+
+
+.close-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+.close-btn:hover {
+  transform: rotate(90deg);
+}
